@@ -1,0 +1,20 @@
+{
+  "short_name": "Happy",
+  "name": "Next Level Week #3",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo-256.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ffd666",
+  "background_color": "#17d6eb"
+}
