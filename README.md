@@ -4,6 +4,7 @@ Workshop realized by [rocketseat](https://rocketseat.com.br/) between 12 and 18 
 > Happy (OmniStack)
 
 [Official website](https://nextlevelweek.com/episodios/omnistack/1/edicao/3)
+[Official repo](https://github.com/rocketseat-education/nlw-03-omnistack)
 
 
 ## Installation
